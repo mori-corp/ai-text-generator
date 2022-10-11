@@ -63,4 +63,11 @@
 .main .result {
   font-weight: bold;
   margin-top: 40px;
+  max-width: 70%;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
 }
